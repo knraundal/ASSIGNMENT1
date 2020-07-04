@@ -98,7 +98,7 @@ text-align: justify;
 .getQuote {
 text-align: center;
 background-color: #FF6600;
-padding: 10px;
+padding: 5px;
 color: #333333;
 }
 
@@ -150,7 +150,7 @@ background-color: #FFFF33;
 }
 
 #footerDiv {
-padding: 10px 0px 10px 10px;
+padding: 10px 0px 5px 5px;
 background-size: cover;
 margin-left: auto;
 max-width: 1300px;
