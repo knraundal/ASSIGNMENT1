@@ -66,7 +66,12 @@ padding: 10px 5px 10px 5px;
 .menuA:hover {
 color: #fff;
 }
+.teacherinfo{
+margin-left: auto;
+margin-right: auto;
 
+
+}
 .table{
    text-align: center;
 }
