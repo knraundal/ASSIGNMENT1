@@ -100,6 +100,8 @@ text-align: center;
 background-color: #FF6600;
 padding: 5px;
 color: #333333;
+margin-left: 30px;
+width: 300px;
 }
 
 input {
